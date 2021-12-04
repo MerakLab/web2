@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reviewing the best Oscar movies of all time"
+title:  "Review for the best Oscar movies of all time"
 author: Murat
 categories: [ Lifestyle ]
 tags: [Movies, Pictures]
