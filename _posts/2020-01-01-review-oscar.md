@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Reviewing the best Oscar movies of all time"
-author: john
+author: Murat
 categories: [ Lifestyle ]
-tags: [Movies]
+tags: [Movies Pictures]
 image: assets/images/11.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 rating: 4.5
